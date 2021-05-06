@@ -1,0 +1,78 @@
+{
+  "uid" : "ca1bd20a153fd047",
+  "name" : "And The \"Hello Emily!\" is visible on the Hello page in header",
+  "fullName" : "Submit Form: Form Page.And The \"Hello Emily!\" is visible on the Hello page in header",
+  "historyId" : "cf0a9b724a210876f77e5ebd69880675",
+  "time" : {
+    "start" : 1620321738939,
+    "stop" : 1620321738959,
+    "duration" : 20
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The \"Hello Emily!\" is visible on the Hello page in header"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "41bdfb9231a86c3c",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/41bdfb9231a86c3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321109612,
+          "stop" : 1620321109627,
+          "duration" : 15
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ca1bd20a153fd047.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

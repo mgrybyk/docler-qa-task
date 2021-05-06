@@ -1,0 +1,78 @@
+{
+  "uid" : "5e22bc857d169607",
+  "name" : "And HTTP interceptor \"navError\" spies on \"GET\" \"**/error\"",
+  "fullName" : "Error Page: Error page.And HTTP interceptor \"navError\" spies on \"GET\" \"**/error\"",
+  "historyId" : "2fb0a965553867975279695424e352b0",
+  "time" : {
+    "start" : 1620321716669,
+    "stop" : 1620321716692,
+    "duration" : 23
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testClass",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And HTTP interceptor \"navError\" spies on \"GET\" \"**/error\""
+  }, {
+    "name" : "package",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6d733dff8eda79c",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/6d733dff8eda79c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321107974,
+          "stop" : 1620321108003,
+          "duration" : 29
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5e22bc857d169607.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

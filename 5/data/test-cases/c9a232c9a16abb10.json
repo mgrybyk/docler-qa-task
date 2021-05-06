@@ -1,0 +1,78 @@
+{
+  "uid" : "c9a232c9a16abb10",
+  "name" : "And The window title is \"UI Testing Site\"",
+  "fullName" : "Navigation: Navigate to Landing Page.And The window title is \"UI Testing Site\"",
+  "historyId" : "f6ededb3b3b946412f4099670ccab336",
+  "time" : {
+    "start" : 1620321716993,
+    "stop" : 1620321716997,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Landing Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Landing Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The window title is \"UI Testing Site\""
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Landing Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "35d629aeee838bbe",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/35d629aeee838bbe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321108142,
+          "stop" : 1620321108146,
+          "duration" : 4
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c9a232c9a16abb10.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

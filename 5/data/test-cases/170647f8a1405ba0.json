@@ -1,0 +1,78 @@
+{
+  "uid" : "170647f8a1405ba0",
+  "name" : "And The Company Logo is visible",
+  "fullName" : "Navigation: Navigate to Landing Page.And The Company Logo is visible",
+  "historyId" : "3e7538b7326d83a666c938a5c68cc78b",
+  "time" : {
+    "start" : 1620321716997,
+    "stop" : 1620321717031,
+    "duration" : 34
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Landing Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Landing Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The Company Logo is visible"
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Landing Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ba7945c1e6caab2c",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/ba7945c1e6caab2c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321108147,
+          "stop" : 1620321108163,
+          "duration" : 16
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "170647f8a1405ba0.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

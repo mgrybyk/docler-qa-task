@@ -1,0 +1,78 @@
+{
+  "uid" : "44177738e2d1c7a6",
+  "name" : "Then The the url path is \"/hello.html?myName=Emily\"",
+  "fullName" : "Submit Form: Form Page.Then The the url path is \"/hello.html?myName=Emily\"",
+  "historyId" : "bdd5ad39705f1ea0a12e5824ee23aeba",
+  "time" : {
+    "start" : 1620321738729,
+    "stop" : 1620321738939,
+    "duration" : 210
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then The the url path is \"/hello.html?myName=Emily\""
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "524722fea99a5655",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/524722fea99a5655",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321109386,
+          "stop" : 1620321109612,
+          "duration" : 226
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "44177738e2d1c7a6.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

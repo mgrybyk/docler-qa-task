@@ -1,0 +1,78 @@
+{
+  "uid" : "f4c7732046cdf5c9",
+  "name" : "When I click on the \"Home\" button in navbar",
+  "fullName" : "Navigation: Navigate to Home Page.When I click on the \"Home\" button in navbar",
+  "historyId" : "370a4d1d374c728940397fefa65d737d",
+  "time" : {
+    "start" : 1620321717165,
+    "stop" : 1620321717208,
+    "duration" : 43
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the \"Home\" button in navbar"
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "710fadaf3bb06264",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/710fadaf3bb06264",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321108316,
+          "stop" : 1620321108364,
+          "duration" : 48
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f4c7732046cdf5c9.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

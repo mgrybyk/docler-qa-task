@@ -1,0 +1,58 @@
+{
+  "uid" : "9d3b01a98e6e48e6",
+  "name" : "When I type \"Jon\" in the input field on the Form page",
+  "fullName" : "Submit Form: Form Page.When I type \"Jon\" in the input field on the Form page",
+  "historyId" : "ad4f7f50e0e2ce38c644e0cd0582f102",
+  "time" : {
+    "start" : 1620321716678,
+    "stop" : 1620321716989,
+    "duration" : 311
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I type \"Jon\" in the input field on the Form page"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d3b01a98e6e48e6.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

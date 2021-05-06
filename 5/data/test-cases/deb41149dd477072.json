@@ -1,0 +1,56 @@
+{
+  "uid" : "deb41149dd477072",
+  "name" : "And The window title is \"UI Testing Site\"",
+  "fullName" : "Submit Form: Form Page.And The window title is \"UI Testing Site\"",
+  "historyId" : "55ef73258563dec2e5cd7069adc3ec0a",
+  "time" : {
+    "start" : 1620321738164,
+    "stop" : 1620321738164,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The window title is \"UI Testing Site\""
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "deb41149dd477072.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

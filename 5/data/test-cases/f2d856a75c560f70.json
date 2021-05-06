@@ -1,0 +1,78 @@
+{
+  "uid" : "f2d856a75c560f70",
+  "name" : "When I type \"Emily\" in the input field on the Form page",
+  "fullName" : "Submit Form: Form Page.When I type \"Emily\" in the input field on the Form page",
+  "historyId" : "aa4df0912577fb272565efcd87d3a828",
+  "time" : {
+    "start" : 1620321738651,
+    "stop" : 1620321738702,
+    "duration" : 51
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I type \"Emily\" in the input field on the Form page"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "43999f9a0813a56f",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/43999f9a0813a56f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321109313,
+          "stop" : 1620321109358,
+          "duration" : 45
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f2d856a75c560f70.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

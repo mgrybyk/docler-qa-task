@@ -1,0 +1,102 @@
+{
+  "uid" : "745b74ce956c6bee",
+  "name" : "And The Company Logo is visible",
+  "fullName" : "Submit Form: Form Page.And The Company Logo is visible",
+  "historyId" : "8bb0700095922fdd6ee9baea9c00ae68",
+  "time" : {
+    "start" : 1620321738962,
+    "stop" : 1620321738969,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The Company Logo is visible"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3081b2ae55df0d38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738606,
+        "stop" : 1620321738614,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "82d18ea6feceff87",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620321738165,
+        "stop" : 1620321738165,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b0ed8f314c99f0dd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620321727486,
+        "stop" : 1620321727487,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "42076ca3ccad0d52",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/42076ca3ccad0d52",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321109630,
+          "stop" : 1620321109637,
+          "duration" : 7
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "745b74ce956c6bee.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

@@ -1,0 +1,78 @@
+{
+  "uid" : "891633767ab049c6",
+  "name" : "Given I am on \"Landing\" page",
+  "fullName" : "Navigation: Navigate to Home Page.Given I am on \"Landing\" page",
+  "historyId" : "3da94157cfdc03f2c864442a4322d27e",
+  "time" : {
+    "start" : 1620321717042,
+    "stop" : 1620321717164,
+    "duration" : 122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on \"Landing\" page"
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4f8709b954841e40",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/4f8709b954841e40",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321108172,
+          "stop" : 1620321108315,
+          "duration" : 143
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "891633767ab049c6.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

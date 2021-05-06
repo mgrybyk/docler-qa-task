@@ -1,0 +1,575 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Home Page: Home page",
+    "children" : [ {
+      "name" : "Given I am on \"Landing\" page",
+      "uid" : "597ee6671a5a3d01",
+      "parentUid" : "1854b6e93a5dd6a1fa27cf572e5576e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321715163,
+        "stop" : 1620321716672,
+        "duration" : 1509
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Then The following text is visible on the Home page in <h1> tag:",
+      "uid" : "e765a286a844a885",
+      "parentUid" : "1854b6e93a5dd6a1fa27cf572e5576e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716672,
+        "stop" : 1620321716816,
+        "duration" : 144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The following text is visible on the Home page in <p> tag:",
+      "uid" : "db471136c3fab118",
+      "parentUid" : "1854b6e93a5dd6a1fa27cf572e5576e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716816,
+        "stop" : 1620321716854,
+        "duration" : 38
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    } ],
+    "uid" : "1854b6e93a5dd6a1fa27cf572e5576e8"
+  }, {
+    "name" : "Error Page: Error page",
+    "children" : [ {
+      "name" : "Given I am on \"Landing\" page",
+      "uid" : "ee385578cd3f2fc0",
+      "parentUid" : "229dd4f3871d0c080fa848cedb3425f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321715170,
+        "stop" : 1620321716669,
+        "duration" : 1499
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And HTTP interceptor \"navError\" spies on \"GET\" \"**/error\"",
+      "uid" : "5e22bc857d169607",
+      "parentUid" : "229dd4f3871d0c080fa848cedb3425f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716669,
+        "stop" : 1620321716692,
+        "duration" : 23
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "When I click on the \"Error\" button in navbar",
+      "uid" : "ab9367d78b5d3f57",
+      "parentUid" : "229dd4f3871d0c080fa848cedb3425f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716692,
+        "stop" : 1620321716845,
+        "duration" : 153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Then HTTP interceptor \"navError\" response code is \"404\"",
+      "uid" : "5e0ecb416bdf5815",
+      "parentUid" : "229dd4f3871d0c080fa848cedb3425f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716846,
+        "stop" : 1620321717353,
+        "duration" : 507
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And 404 page is shown",
+      "uid" : "1c363ad9d71205cb",
+      "parentUid" : "229dd4f3871d0c080fa848cedb3425f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717354,
+        "stop" : 1620321717368,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    } ],
+    "uid" : "229dd4f3871d0c080fa848cedb3425f6"
+  }, {
+    "name" : "Navigation: Navigate to Landing Page",
+    "children" : [ {
+      "name" : "Given I am on \"Landing\" page",
+      "uid" : "4c0f7c9b3bad0f73",
+      "parentUid" : "3d1d222febcdc51e72e15c24436fbe6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321715177,
+        "stop" : 1620321716676,
+        "duration" : 1499
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "When I click on the \"UI Testing\" button in header",
+      "uid" : "9a6a0be5b0cdfb5f",
+      "parentUid" : "3d1d222febcdc51e72e15c24436fbe6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716678,
+        "stop" : 1620321716843,
+        "duration" : 165
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Then The the url path is \"/\"",
+      "uid" : "1d01fd1dd9f87fd8",
+      "parentUid" : "3d1d222febcdc51e72e15c24436fbe6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716843,
+        "stop" : 1620321716964,
+        "duration" : 121
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The active navbar item is \"Home\"",
+      "uid" : "e253fd9d13451a69",
+      "parentUid" : "3d1d222febcdc51e72e15c24436fbe6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716964,
+        "stop" : 1620321716993,
+        "duration" : 29
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The window title is \"UI Testing Site\"",
+      "uid" : "c9a232c9a16abb10",
+      "parentUid" : "3d1d222febcdc51e72e15c24436fbe6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716993,
+        "stop" : 1620321716997,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The Company Logo is visible",
+      "uid" : "170647f8a1405ba0",
+      "parentUid" : "3d1d222febcdc51e72e15c24436fbe6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716997,
+        "stop" : 1620321717031,
+        "duration" : 34
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    } ],
+    "uid" : "3d1d222febcdc51e72e15c24436fbe6d"
+  }, {
+    "name" : "Submit Form: Form Page",
+    "children" : [ {
+      "name" : "When I type \"Jon\" in the input field on the Form page",
+      "uid" : "9d3b01a98e6e48e6",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321716678,
+        "stop" : 1620321716989,
+        "duration" : 311
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Then The the url path is \"/hello.html?myName=Jon\"",
+      "uid" : "cd5ae63774ce5309",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717042,
+        "stop" : 1620321717263,
+        "duration" : 221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The \"Hello John!\" is visible on the Hello page in header",
+      "uid" : "3800584f9a4e6186",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "failed",
+      "time" : {
+        "start" : 1620321717263,
+        "stop" : 1620321727485,
+        "duration" : 10222
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "When I type \"Sophia\" in the input field on the Form page",
+      "uid" : "c15c43a97f07a6d",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321727575,
+        "stop" : 1620321727622,
+        "duration" : 47
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Then The the url path is \"/hello.html?myName=Sophia\"",
+      "uid" : "6e2552be2a964286",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321727663,
+        "stop" : 1620321727967,
+        "duration" : 304
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The \"Hello Sophia\" is visible on the Hello page in header",
+      "uid" : "3b1517704306e38b",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "failed",
+      "time" : {
+        "start" : 1620321727967,
+        "stop" : 1620321738163,
+        "duration" : 10196
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "When I type \"Charlie\" in the input field on the Form page",
+      "uid" : "eb87c01a600107d0",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738203,
+        "stop" : 1620321738254,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Then The the url path is \"/hello.html?myName=Charlie\"",
+      "uid" : "741cc8a041320566",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738279,
+        "stop" : 1620321738580,
+        "duration" : 301
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The \"Hello Charlie!\" is visible on the Hello page in header",
+      "uid" : "ff4111dc609b9d19",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738580,
+        "stop" : 1620321738603,
+        "duration" : 23
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Given I am on \"Form\" page",
+      "uid" : "b9fcd1ae4e7cf903",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738618,
+        "stop" : 1620321738650,
+        "duration" : 32
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "When I type \"Emily\" in the input field on the Form page",
+      "uid" : "f2d856a75c560f70",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738651,
+        "stop" : 1620321738702,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And Submit the form on the Form page",
+      "uid" : "4a61f1d5e594b155",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738702,
+        "stop" : 1620321738729,
+        "duration" : 27
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Then The the url path is \"/hello.html?myName=Emily\"",
+      "uid" : "44177738e2d1c7a6",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738729,
+        "stop" : 1620321738939,
+        "duration" : 210
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The \"Hello Emily!\" is visible on the Hello page in header",
+      "uid" : "ca1bd20a153fd047",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738939,
+        "stop" : 1620321738959,
+        "duration" : 20
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The window title is \"UI Testing Site\"",
+      "uid" : "9cfb0b7dfa624629",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738959,
+        "stop" : 1620321738962,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The Company Logo is visible",
+      "uid" : "745b74ce956c6bee",
+      "parentUid" : "5553ae41d6899cacaf44078709b6e7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321738962,
+        "stop" : 1620321738969,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    } ],
+    "uid" : "5553ae41d6899cacaf44078709b6e7e2"
+  }, {
+    "name" : "Navigation: Navigate to Home Page",
+    "children" : [ {
+      "name" : "Given I am on \"Landing\" page",
+      "uid" : "891633767ab049c6",
+      "parentUid" : "0bcd20cbd367c2f9f4ea8900140eff92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717042,
+        "stop" : 1620321717164,
+        "duration" : 122
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "When I click on the \"Home\" button in navbar",
+      "uid" : "f4c7732046cdf5c9",
+      "parentUid" : "0bcd20cbd367c2f9f4ea8900140eff92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717165,
+        "stop" : 1620321717208,
+        "duration" : 43
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Then The the url path is \"/\"",
+      "uid" : "7e65af3ae2d2b090",
+      "parentUid" : "0bcd20cbd367c2f9f4ea8900140eff92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717208,
+        "stop" : 1620321717318,
+        "duration" : 110
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The active navbar item is \"Home\"",
+      "uid" : "b8d8ee6324da8647",
+      "parentUid" : "0bcd20cbd367c2f9f4ea8900140eff92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717319,
+        "stop" : 1620321717333,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The window title is \"UI Testing Site\"",
+      "uid" : "ec8fd4699fb2e5b5",
+      "parentUid" : "0bcd20cbd367c2f9f4ea8900140eff92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717333,
+        "stop" : 1620321717336,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The Company Logo is visible",
+      "uid" : "3a8d5e2af44991de",
+      "parentUid" : "0bcd20cbd367c2f9f4ea8900140eff92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717336,
+        "stop" : 1620321717344,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    } ],
+    "uid" : "0bcd20cbd367c2f9f4ea8900140eff92"
+  }, {
+    "name" : "Navigation: Navigate to Form Page",
+    "children" : [ {
+      "name" : "Given I am on \"Landing\" page",
+      "uid" : "a5ba21434c984e01",
+      "parentUid" : "91c435d07a01d0ea572f46b343a23e8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717349,
+        "stop" : 1620321717491,
+        "duration" : 142
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "When I click on the \"Form\" button in navbar",
+      "uid" : "a4ac7d2af2581b49",
+      "parentUid" : "91c435d07a01d0ea572f46b343a23e8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717491,
+        "stop" : 1620321717522,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "Then The the url path is \"/form.html\"",
+      "uid" : "401f08e22b5b290b",
+      "parentUid" : "91c435d07a01d0ea572f46b343a23e8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717522,
+        "stop" : 1620321717730,
+        "duration" : 208
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The active navbar item is \"Form\"",
+      "uid" : "ae007f0b0df954b0",
+      "parentUid" : "91c435d07a01d0ea572f46b343a23e8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717730,
+        "stop" : 1620321717741,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The window title is \"UI Testing Site\"",
+      "uid" : "e9c82e7cf39daba7",
+      "parentUid" : "91c435d07a01d0ea572f46b343a23e8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717741,
+        "stop" : 1620321717744,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    }, {
+      "name" : "And The Company Logo is visible",
+      "uid" : "15e27321eedc5bd8",
+      "parentUid" : "91c435d07a01d0ea572f46b343a23e8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321717744,
+        "stop" : 1620321717751,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+    } ],
+    "uid" : "91c435d07a01d0ea572f46b343a23e8b"
+  } ],
+  "name" : "suites"
+}

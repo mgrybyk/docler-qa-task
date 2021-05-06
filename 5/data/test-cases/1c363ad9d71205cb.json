@@ -1,0 +1,78 @@
+{
+  "uid" : "1c363ad9d71205cb",
+  "name" : "And 404 page is shown",
+  "fullName" : "Error Page: Error page.And 404 page is shown",
+  "historyId" : "94489bddfc605d725c92ecb739197e95",
+  "time" : {
+    "start" : 1620321717354,
+    "stop" : 1620321717368,
+    "duration" : 14
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testClass",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And 404 page is shown"
+  }, {
+    "name" : "package",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "d79320d55e3dc15d",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/d79320d55e3dc15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321108640,
+          "stop" : 1620321108670,
+          "duration" : 30
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1c363ad9d71205cb.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

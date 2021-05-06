@@ -1,0 +1,82 @@
+{
+  "uid" : "3b1517704306e38b",
+  "name" : "And The \"Hello Sophia\" is visible on the Hello page in header",
+  "fullName" : "Submit Form: Form Page.And The \"Hello Sophia\" is visible on the Hello page in header",
+  "historyId" : "1a30968599afffe8f7e0b2fc16abdf81",
+  "time" : {
+    "start" : 1620321727967,
+    "stop" : 1620321738163,
+    "duration" : 10196
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect $(`h1#hello-text`) to have text\n                \n                Expected: \"Hello Sophia\"\n                Received: \"Hello Sophia!\"",
+  "statusTrace" : "Error: Expect $(`h1#hello-text`) to have text\n                \n                Expected: \"Hello Sophia\"\n                Received: \"Hello Sophia!\"\n                    at World.<anonymous> (/home/runner/work/docler-qa-task/docler-qa-task/test/step-definitions/then.ts:38:42)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expect $(`h1#hello-text`) to have text\n                \n                Expected: \"Hello Sophia\"\n                Received: \"Hello Sophia!\"",
+    "statusTrace" : "Error: Expect $(`h1#hello-text`) to have text\n                \n                Expected: \"Hello Sophia\"\n                Received: \"Hello Sophia!\"\n                    at World.<anonymous> (/home/runner/work/docler-qa-task/docler-qa-task/test/step-definitions/then.ts:38:42)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d311d94b68605d94",
+      "name" : "Screenshot",
+      "source" : "d311d94b68605d94.png",
+      "type" : "image/png",
+      "size" : 96436
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The \"Hello Sophia\" is visible on the Hello page in header"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3b1517704306e38b.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

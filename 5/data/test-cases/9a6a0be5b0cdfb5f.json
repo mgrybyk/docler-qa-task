@@ -1,0 +1,78 @@
+{
+  "uid" : "9a6a0be5b0cdfb5f",
+  "name" : "When I click on the \"UI Testing\" button in header",
+  "fullName" : "Navigation: Navigate to Landing Page.When I click on the \"UI Testing\" button in header",
+  "historyId" : "b40ff82902d1e38ffc1cbed730c8e5fe",
+  "time" : {
+    "start" : 1620321716678,
+    "stop" : 1620321716843,
+    "duration" : 165
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Landing Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Landing Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the \"UI Testing\" button in header"
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Landing Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "3304cc9f4c95a9a1",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/3304cc9f4c95a9a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321107869,
+          "stop" : 1620321107971,
+          "duration" : 102
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9a6a0be5b0cdfb5f.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

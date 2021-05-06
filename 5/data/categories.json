@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expect $(`h1#hello-text`) to have text\n                \n                Expected: \"Hello John!\"\n                Received: \"Hello Jon!\"",
+      "children" : [ {
+        "name" : "And The \"Hello John!\" is visible on the Hello page in header",
+        "uid" : "3800584f9a4e6186",
+        "parentUid" : "2d1099742039b5674fd92258d343e7d3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620321717263,
+          "stop" : 1620321727485,
+          "duration" : 10222
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+      } ],
+      "uid" : "2d1099742039b5674fd92258d343e7d3"
+    }, {
+      "name" : "Expect $(`h1#hello-text`) to have text\n                \n                Expected: \"Hello Sophia\"\n                Received: \"Hello Sophia!\"",
+      "children" : [ {
+        "name" : "And The \"Hello Sophia\" is visible on the Hello page in header",
+        "uid" : "3b1517704306e38b",
+        "parentUid" : "7ee5d705a2d09ff2a5c3c7398d9604ed",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620321727967,
+          "stop" : 1620321738163,
+          "duration" : 10196
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome Headless-90.0.4430.93" ]
+      } ],
+      "uid" : "7ee5d705a2d09ff2a5c3c7398d9604ed"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
