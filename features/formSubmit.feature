@@ -13,7 +13,7 @@ Feature: Submit Form
 
         Examples:
             | value   | result          |
-            | John    | Hello John!     |
-            | Sophia  | Hello Sophia!   |
+            | Jon     | Hello John!     |
+            | Sophia  | Hello Sophia    |
             | Charlie | Hello Charlie!  |
             | Emily   | Hello Emily!    |
