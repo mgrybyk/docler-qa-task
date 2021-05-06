@@ -1,0 +1,58 @@
+{
+  "uid" : "9668ac477d1d83b5",
+  "name" : "When I click on the \"Error\" button in navbar",
+  "fullName" : "Error Page: Error page.When I click on the \"Error\" button in navbar",
+  "historyId" : "99fdd89b7d5524d5fa2edb8ba417122b",
+  "time" : {
+    "start" : 1620321108003,
+    "stop" : 1620321108133,
+    "duration" : 130
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testClass",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the \"Error\" button in navbar"
+  }, {
+    "name" : "package",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9668ac477d1d83b5.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

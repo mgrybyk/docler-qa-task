@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://mgrybyk.github.io/docler-qa-task",
+  "buildOrder" : 4,
+  "buildName" : "GitHub Actions Run #817638725",
+  "buildUrl" : "https://github.com/mgrybyk/docler-qa-task/actions/runs/817638725",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4/"
+} ]

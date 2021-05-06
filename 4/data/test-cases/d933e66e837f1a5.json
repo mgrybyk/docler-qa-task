@@ -1,0 +1,58 @@
+{
+  "uid" : "d933e66e837f1a5",
+  "name" : "And The active navbar item is \"Form\"",
+  "fullName" : "Navigation: Navigate to Form Page.And The active navbar item is \"Form\"",
+  "historyId" : "251da96c92f82ed7c4e84856f427d01d",
+  "time" : {
+    "start" : 1620321108960,
+    "stop" : 1620321108975,
+    "duration" : 15
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The active navbar item is \"Form\""
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d933e66e837f1a5.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

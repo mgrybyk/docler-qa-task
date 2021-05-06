@@ -1,0 +1,58 @@
+{
+  "uid" : "a76b7c1dcce5ede3",
+  "name" : "Then The the url path is \"/hello.html?myName=Charlie\"",
+  "fullName" : "Submit Form: Form Page.Then The the url path is \"/hello.html?myName=Charlie\"",
+  "historyId" : "ba6d508a8b1762dc62d02a06ac53ebf2",
+  "time" : {
+    "start" : 1620321109023,
+    "stop" : 1620321109247,
+    "duration" : 224
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then The the url path is \"/hello.html?myName=Charlie\""
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a76b7c1dcce5ede3.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

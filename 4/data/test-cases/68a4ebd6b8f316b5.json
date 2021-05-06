@@ -1,0 +1,58 @@
+{
+  "uid" : "68a4ebd6b8f316b5",
+  "name" : "And The \"Hello Sophia!\" is visible on the Hello page in header",
+  "fullName" : "Submit Form: Form Page.And The \"Hello Sophia!\" is visible on the Hello page in header",
+  "historyId" : "7196fdf98f12bd08f91f0dd6cc2a53d5",
+  "time" : {
+    "start" : 1620321108850,
+    "stop" : 1620321108872,
+    "duration" : 22
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The \"Hello Sophia!\" is visible on the Hello page in header"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68a4ebd6b8f316b5.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "710fadaf3bb06264",
+  "name" : "When I click on the \"Home\" button in navbar",
+  "fullName" : "Navigation: Navigate to Home Page.When I click on the \"Home\" button in navbar",
+  "historyId" : "370a4d1d374c728940397fefa65d737d",
+  "time" : {
+    "start" : 1620321108316,
+    "stop" : 1620321108364,
+    "duration" : 48
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the \"Home\" button in navbar"
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "710fadaf3bb06264.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

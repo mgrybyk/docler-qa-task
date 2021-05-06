@@ -1,0 +1,82 @@
+{
+  "uid" : "b01b65697201a439",
+  "name" : "And The window title is \"UI Testing Site\"",
+  "fullName" : "Submit Form: Form Page.And The window title is \"UI Testing Site\"",
+  "historyId" : "55ef73258563dec2e5cd7069adc3ec0a",
+  "time" : {
+    "start" : 1620321109627,
+    "stop" : 1620321109630,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The window title is \"UI Testing Site\""
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cc824ad537100ae1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109266,
+        "stop" : 1620321109268,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d942148f04c1e185",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108872,
+        "stop" : 1620321108875,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "c5f6c43f6af9b187",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108452,
+        "stop" : 1620321108456,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b01b65697201a439.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "42076ca3ccad0d52",
+  "name" : "And The Company Logo is visible",
+  "fullName" : "Submit Form: Form Page.And The Company Logo is visible",
+  "historyId" : "8bb0700095922fdd6ee9baea9c00ae68",
+  "time" : {
+    "start" : 1620321109630,
+    "stop" : 1620321109637,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The Company Logo is visible"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b9328ccc38e743fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109268,
+        "stop" : 1620321109276,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "2e45476e059d69bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108875,
+        "stop" : 1620321108895,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "ddd9f49ddff33c71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108456,
+        "stop" : 1620321108465,
+        "duration" : 9
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42076ca3ccad0d52.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

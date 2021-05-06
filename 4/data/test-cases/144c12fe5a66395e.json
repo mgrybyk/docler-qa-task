@@ -1,0 +1,56 @@
+{
+  "uid" : "144c12fe5a66395e",
+  "name" : "Given I am on \"Form\" page",
+  "fullName" : "Submit Form: Form Page.Given I am on \"Form\" page",
+  "historyId" : "89f3d4b42faad83291ee2e4bab6e8a23",
+  "time" : {
+    "start" : 1620321106912,
+    "stop" : 1620321107984,
+    "duration" : 1072
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on \"Form\" page"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "144c12fe5a66395e.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

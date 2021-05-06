@@ -1,0 +1,58 @@
+{
+  "uid" : "b4bad714c7202c81",
+  "name" : "Then HTTP interceptor \"navError\" response code is \"404\"",
+  "fullName" : "Error Page: Error page.Then HTTP interceptor \"navError\" response code is \"404\"",
+  "historyId" : "99f76efafd1e9cd4e30ac3aa5501e726",
+  "time" : {
+    "start" : 1620321108133,
+    "stop" : 1620321108640,
+    "duration" : 507
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testClass",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then HTTP interceptor \"navError\" response code is \"404\""
+  }, {
+    "name" : "package",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4bad714c7202c81.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

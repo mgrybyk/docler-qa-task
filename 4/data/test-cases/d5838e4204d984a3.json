@@ -1,0 +1,58 @@
+{
+  "uid" : "d5838e4204d984a3",
+  "name" : "Then The the url path is \"/form.html\"",
+  "fullName" : "Navigation: Navigate to Form Page.Then The the url path is \"/form.html\"",
+  "historyId" : "841706a53fe3c4c208b9d518209225f2",
+  "time" : {
+    "start" : 1620321108743,
+    "stop" : 1620321108959,
+    "duration" : 216
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then The the url path is \"/form.html\""
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5838e4204d984a3.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

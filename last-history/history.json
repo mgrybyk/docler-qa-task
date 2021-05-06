@@ -1,0 +1,842 @@
+{
+  "37bc814de51dedf6e6f19d78d1bf3783" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24105639678053b",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/24105639678053b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321106938,
+        "stop" : 1620321107877,
+        "duration" : 939
+      }
+    } ]
+  },
+  "55ef73258563dec2e5cd7069adc3ec0a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b01b65697201a439",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/b01b65697201a439",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109627,
+        "stop" : 1620321109630,
+        "duration" : 3
+      }
+    } ]
+  },
+  "841706a53fe3c4c208b9d518209225f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d5838e4204d984a3",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/d5838e4204d984a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108743,
+        "stop" : 1620321108959,
+        "duration" : 216
+      }
+    } ]
+  },
+  "251da96c92f82ed7c4e84856f427d01d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d933e66e837f1a5",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/d933e66e837f1a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108960,
+        "stop" : 1620321108975,
+        "duration" : 15
+      }
+    } ]
+  },
+  "35eea6dacb803480d3a6b103e08a31b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5d4f806d1a62c6a",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/a5d4f806d1a62c6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321106935,
+        "stop" : 1620321107974,
+        "duration" : 1039
+      }
+    } ]
+  },
+  "a26116d65048396c36504e5704337f4a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb15f761c2bad55",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/cb15f761c2bad55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108525,
+        "stop" : 1620321108578,
+        "duration" : 53
+      }
+    } ]
+  },
+  "370a4d1d374c728940397fefa65d737d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "710fadaf3bb06264",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/710fadaf3bb06264",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108316,
+        "stop" : 1620321108364,
+        "duration" : 48
+      }
+    } ]
+  },
+  "ba6d508a8b1762dc62d02a06ac53ebf2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a76b7c1dcce5ede3",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/a76b7c1dcce5ede3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109023,
+        "stop" : 1620321109247,
+        "duration" : 224
+      }
+    } ]
+  },
+  "10f863e2365d5ddae0127484992ef27e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2cdcb57851648153",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/2cdcb57851648153",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108433,
+        "stop" : 1620321108452,
+        "duration" : 19
+      }
+    } ]
+  },
+  "8bb0700095922fdd6ee9baea9c00ae68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42076ca3ccad0d52",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/42076ca3ccad0d52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109630,
+        "stop" : 1620321109637,
+        "duration" : 7
+      }
+    } ]
+  },
+  "aeb764fdd31d8f327dcd094adcfd2c0e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9570e5bd2d42fc0c",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/9570e5bd2d42fc0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108620,
+        "stop" : 1620321108850,
+        "duration" : 230
+      }
+    } ]
+  },
+  "38eead61ab33730ef8233a02296e8a65" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "882f3d223183dd3f",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/882f3d223183dd3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108668,
+        "stop" : 1620321108743,
+        "duration" : 75
+      }
+    } ]
+  },
+  "66f00a63ba441362dd9a4fcdbfad9c0c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59825a3c54d5651f",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/59825a3c54d5651f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108975,
+        "stop" : 1620321108978,
+        "duration" : 3
+      }
+    } ]
+  },
+  "78ab8fbab47dee5f24530992df3c6faa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e798ef83812a119",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/4e798ef83812a119",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108190,
+        "stop" : 1620321108433,
+        "duration" : 243
+      }
+    } ]
+  },
+  "94489bddfc605d725c92ecb739197e95" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d79320d55e3dc15d",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/d79320d55e3dc15d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108640,
+        "stop" : 1620321108670,
+        "duration" : 30
+      }
+    } ]
+  },
+  "cf0a9b724a210876f77e5ebd69880675" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41bdfb9231a86c3c",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/41bdfb9231a86c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109612,
+        "stop" : 1620321109627,
+        "duration" : 15
+      }
+    } ]
+  },
+  "3e7538b7326d83a666c938a5c68cc78b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba7945c1e6caab2c",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/ba7945c1e6caab2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108147,
+        "stop" : 1620321108163,
+        "duration" : 16
+      }
+    } ]
+  },
+  "9ad13c277fad94e9ec41a6de3e517131" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8173aafdb616e076",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/8173aafdb616e076",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109358,
+        "stop" : 1620321109386,
+        "duration" : 28
+      }
+    } ]
+  },
+  "1782403776c0a16a12f6c4fec9c1d80a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f075f8c3d6678708",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/f075f8c3d6678708",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108498,
+        "stop" : 1620321108508,
+        "duration" : 10
+      }
+    } ]
+  },
+  "bdd5ad39705f1ea0a12e5824ee23aeba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "524722fea99a5655",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/524722fea99a5655",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109386,
+        "stop" : 1620321109612,
+        "duration" : 226
+      }
+    } ]
+  },
+  "b46e36f96dd7e2b30f3190c16796a541" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "170073f56747f2b8",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/170073f56747f2b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321107984,
+        "stop" : 1620321108143,
+        "duration" : 159
+      }
+    } ]
+  },
+  "99f76efafd1e9cd4e30ac3aa5501e726" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4bad714c7202c81",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/b4bad714c7202c81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108133,
+        "stop" : 1620321108640,
+        "duration" : 507
+      }
+    } ]
+  },
+  "174d63004f0fad0f10e7154d739699c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "927c5b0a25a5b261",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/927c5b0a25a5b261",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108978,
+        "stop" : 1620321108987,
+        "duration" : 9
+      }
+    } ]
+  },
+  "ff919044fa87979ca1db6a992aec5c31" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42ad334203620969",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/42ad334203620969",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108930,
+        "stop" : 1620321108993,
+        "duration" : 63
+      }
+    } ]
+  },
+  "e21f98a3a7597ee444607ea47d5f3c90" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4eb4d39ec4ced8b",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/d4eb4d39ec4ced8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321107927,
+        "stop" : 1620321107943,
+        "duration" : 16
+      }
+    } ]
+  },
+  "aa4df0912577fb272565efcd87d3a828" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43999f9a0813a56f",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/43999f9a0813a56f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109313,
+        "stop" : 1620321109358,
+        "duration" : 45
+      }
+    } ]
+  },
+  "f6ededb3b3b946412f4099670ccab336" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35d629aeee838bbe",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/35d629aeee838bbe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108142,
+        "stop" : 1620321108146,
+        "duration" : 4
+      }
+    } ]
+  },
+  "89f3d4b42faad83291ee2e4bab6e8a23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "533a5739d05e8016",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/533a5739d05e8016",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109280,
+        "stop" : 1620321109313,
+        "duration" : 33
+      }
+    } ]
+  },
+  "99fdd89b7d5524d5fa2edb8ba417122b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9668ac477d1d83b5",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/9668ac477d1d83b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108003,
+        "stop" : 1620321108133,
+        "duration" : 130
+      }
+    } ]
+  },
+  "b721dae815058afdd04bb85b1be2ea3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79c037d9c9ec6d75",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/79c037d9c9ec6d75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321106899,
+        "stop" : 1620321107868,
+        "duration" : 969
+      }
+    } ]
+  },
+  "7196fdf98f12bd08f91f0dd6cc2a53d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68a4ebd6b8f316b5",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/68a4ebd6b8f316b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108850,
+        "stop" : 1620321108872,
+        "duration" : 22
+      }
+    } ]
+  },
+  "c3636b726f2dc1f722217bcf6f3eb9d4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27446fbc48e13f2",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/27446fbc48e13f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108512,
+        "stop" : 1620321108668,
+        "duration" : 156
+      }
+    } ]
+  },
+  "b40ff82902d1e38ffc1cbed730c8e5fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3304cc9f4c95a9a1",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/3304cc9f4c95a9a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321107869,
+        "stop" : 1620321107971,
+        "duration" : 102
+      }
+    } ]
+  },
+  "fe2e286855bf18c5286184cea9bec445" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ecd9b07a241f0df",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/5ecd9b07a241f0df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108479,
+        "stop" : 1620321108495,
+        "duration" : 16
+      }
+    } ]
+  },
+  "36712507a645a96da370db783ef9c110" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e77d9177d4155d0",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/e77d9177d4155d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108123,
+        "stop" : 1620321108142,
+        "duration" : 19
+      }
+    } ]
+  },
+  "cb4fbdfcad6280e0e71e9fa42db745cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5848c970e214284b",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/5848c970e214284b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321107878,
+        "stop" : 1620321107926,
+        "duration" : 48
+      }
+    } ]
+  },
+  "1b825682be66759ed9d6ff9e68cf5950" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6d3d541c894270e",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/d6d3d541c894270e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108495,
+        "stop" : 1620321108498,
+        "duration" : 3
+      }
+    } ]
+  },
+  "f832d147f49f9df0306d7f0d7ed282a8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98f937a34435e61e",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/98f937a34435e61e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321107971,
+        "stop" : 1620321108123,
+        "duration" : 152
+      }
+    } ]
+  },
+  "3da94157cfdc03f2c864442a4322d27e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f8709b954841e40",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/4f8709b954841e40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108172,
+        "stop" : 1620321108315,
+        "duration" : 143
+      }
+    } ]
+  },
+  "2fb0a965553867975279695424e352b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d733dff8eda79c",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/6d733dff8eda79c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321107974,
+        "stop" : 1620321108003,
+        "duration" : 29
+      }
+    } ]
+  },
+  "6667e34fbf5b66d96db0e30c28393202" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1def6982b2c3e70",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/1def6982b2c3e70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321109247,
+        "stop" : 1620321109266,
+        "duration" : 19
+      }
+    } ]
+  },
+  "cf53836bd3502056b64337c7e3865534" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "440f74a602463096",
+      "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/440f74a602463096",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108364,
+        "stop" : 1620321108479,
+        "duration" : 115
+      }
+    } ]
+  }
+}

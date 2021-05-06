@@ -1,0 +1,58 @@
+{
+  "uid" : "27446fbc48e13f2",
+  "name" : "Given I am on \"Landing\" page",
+  "fullName" : "Navigation: Navigate to Form Page.Given I am on \"Landing\" page",
+  "historyId" : "c3636b726f2dc1f722217bcf6f3eb9d4",
+  "time" : {
+    "start" : 1620321108512,
+    "stop" : 1620321108668,
+    "duration" : 156
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on \"Landing\" page"
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "27446fbc48e13f2.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

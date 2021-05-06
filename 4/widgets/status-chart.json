@@ -1,0 +1,421 @@
+[ {
+  "uid" : "533a5739d05e8016",
+  "name" : "Given I am on \"Form\" page",
+  "time" : {
+    "start" : 1620321109280,
+    "stop" : 1620321109313,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41bdfb9231a86c3c",
+  "name" : "And The \"Hello Emily!\" is visible on the Hello page in header",
+  "time" : {
+    "start" : 1620321109612,
+    "stop" : 1620321109627,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d733dff8eda79c",
+  "name" : "And HTTP interceptor \"navError\" spies on \"GET\" \"**/error\"",
+  "time" : {
+    "start" : 1620321107974,
+    "stop" : 1620321108003,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24105639678053b",
+  "name" : "Given I am on \"Landing\" page",
+  "time" : {
+    "start" : 1620321106938,
+    "stop" : 1620321107877,
+    "duration" : 939
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4bad714c7202c81",
+  "name" : "Then HTTP interceptor \"navError\" response code is \"404\"",
+  "time" : {
+    "start" : 1620321108133,
+    "stop" : 1620321108640,
+    "duration" : 507
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d79320d55e3dc15d",
+  "name" : "And 404 page is shown",
+  "time" : {
+    "start" : 1620321108640,
+    "stop" : 1620321108670,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5848c970e214284b",
+  "name" : "Then The following text is visible on the Home page in <h1> tag:",
+  "time" : {
+    "start" : 1620321107878,
+    "stop" : 1620321107926,
+    "duration" : 48
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3304cc9f4c95a9a1",
+  "name" : "When I click on the \"UI Testing\" button in header",
+  "time" : {
+    "start" : 1620321107869,
+    "stop" : 1620321107971,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68a4ebd6b8f316b5",
+  "name" : "And The \"Hello Sophia!\" is visible on the Hello page in header",
+  "time" : {
+    "start" : 1620321108850,
+    "stop" : 1620321108872,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d933e66e837f1a5",
+  "name" : "And The active navbar item is \"Form\"",
+  "time" : {
+    "start" : 1620321108960,
+    "stop" : 1620321108975,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "524722fea99a5655",
+  "name" : "Then The the url path is \"/hello.html?myName=Emily\"",
+  "time" : {
+    "start" : 1620321109386,
+    "stop" : 1620321109612,
+    "duration" : 226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b01b65697201a439",
+  "name" : "And The window title is \"UI Testing Site\"",
+  "time" : {
+    "start" : 1620321109627,
+    "stop" : 1620321109630,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "882f3d223183dd3f",
+  "name" : "When I click on the \"Form\" button in navbar",
+  "time" : {
+    "start" : 1620321108668,
+    "stop" : 1620321108743,
+    "duration" : 75
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1def6982b2c3e70",
+  "name" : "And The \"Hello Charlie!\" is visible on the Hello page in header",
+  "time" : {
+    "start" : 1620321109247,
+    "stop" : 1620321109266,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4eb4d39ec4ced8b",
+  "name" : "And The following text is visible on the Home page in <p> tag:",
+  "time" : {
+    "start" : 1620321107927,
+    "stop" : 1620321107943,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2cdcb57851648153",
+  "name" : "And The \"Hello John!\" is visible on the Hello page in header",
+  "time" : {
+    "start" : 1620321108433,
+    "stop" : 1620321108452,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb15f761c2bad55",
+  "name" : "When I type \"Sophia\" in the input field on the Form page",
+  "time" : {
+    "start" : 1620321108525,
+    "stop" : 1620321108578,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42076ca3ccad0d52",
+  "name" : "And The Company Logo is visible",
+  "time" : {
+    "start" : 1620321109630,
+    "stop" : 1620321109637,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e798ef83812a119",
+  "name" : "Then The the url path is \"/hello.html?myName=John\"",
+  "time" : {
+    "start" : 1620321108190,
+    "stop" : 1620321108433,
+    "duration" : 243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5d4f806d1a62c6a",
+  "name" : "Given I am on \"Landing\" page",
+  "time" : {
+    "start" : 1620321106935,
+    "stop" : 1620321107974,
+    "duration" : 1039
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "710fadaf3bb06264",
+  "name" : "When I click on the \"Home\" button in navbar",
+  "time" : {
+    "start" : 1620321108316,
+    "stop" : 1620321108364,
+    "duration" : 48
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f075f8c3d6678708",
+  "name" : "And The Company Logo is visible",
+  "time" : {
+    "start" : 1620321108498,
+    "stop" : 1620321108508,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a76b7c1dcce5ede3",
+  "name" : "Then The the url path is \"/hello.html?myName=Charlie\"",
+  "time" : {
+    "start" : 1620321109023,
+    "stop" : 1620321109247,
+    "duration" : 224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98f937a34435e61e",
+  "name" : "Then The the url path is \"/\"",
+  "time" : {
+    "start" : 1620321107971,
+    "stop" : 1620321108123,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6d3d541c894270e",
+  "name" : "And The window title is \"UI Testing Site\"",
+  "time" : {
+    "start" : 1620321108495,
+    "stop" : 1620321108498,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5838e4204d984a3",
+  "name" : "Then The the url path is \"/form.html\"",
+  "time" : {
+    "start" : 1620321108743,
+    "stop" : 1620321108959,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "927c5b0a25a5b261",
+  "name" : "And The Company Logo is visible",
+  "time" : {
+    "start" : 1620321108978,
+    "stop" : 1620321108987,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ecd9b07a241f0df",
+  "name" : "And The active navbar item is \"Home\"",
+  "time" : {
+    "start" : 1620321108479,
+    "stop" : 1620321108495,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9570e5bd2d42fc0c",
+  "name" : "Then The the url path is \"/hello.html?myName=Sophia\"",
+  "time" : {
+    "start" : 1620321108620,
+    "stop" : 1620321108850,
+    "duration" : 230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "170073f56747f2b8",
+  "name" : "When I type \"John\" in the input field on the Form page",
+  "time" : {
+    "start" : 1620321107984,
+    "stop" : 1620321108143,
+    "duration" : 159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8173aafdb616e076",
+  "name" : "And Submit the form on the Form page",
+  "time" : {
+    "start" : 1620321109358,
+    "stop" : 1620321109386,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42ad334203620969",
+  "name" : "When I type \"Charlie\" in the input field on the Form page",
+  "time" : {
+    "start" : 1620321108930,
+    "stop" : 1620321108993,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "440f74a602463096",
+  "name" : "Then The the url path is \"/\"",
+  "time" : {
+    "start" : 1620321108364,
+    "stop" : 1620321108479,
+    "duration" : 115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59825a3c54d5651f",
+  "name" : "And The window title is \"UI Testing Site\"",
+  "time" : {
+    "start" : 1620321108975,
+    "stop" : 1620321108978,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9668ac477d1d83b5",
+  "name" : "When I click on the \"Error\" button in navbar",
+  "time" : {
+    "start" : 1620321108003,
+    "stop" : 1620321108133,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35d629aeee838bbe",
+  "name" : "And The window title is \"UI Testing Site\"",
+  "time" : {
+    "start" : 1620321108142,
+    "stop" : 1620321108146,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79c037d9c9ec6d75",
+  "name" : "Given I am on \"Landing\" page",
+  "time" : {
+    "start" : 1620321106899,
+    "stop" : 1620321107868,
+    "duration" : 969
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43999f9a0813a56f",
+  "name" : "When I type \"Emily\" in the input field on the Form page",
+  "time" : {
+    "start" : 1620321109313,
+    "stop" : 1620321109358,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e77d9177d4155d0",
+  "name" : "And The active navbar item is \"Home\"",
+  "time" : {
+    "start" : 1620321108123,
+    "stop" : 1620321108142,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27446fbc48e13f2",
+  "name" : "Given I am on \"Landing\" page",
+  "time" : {
+    "start" : 1620321108512,
+    "stop" : 1620321108668,
+    "duration" : 156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f8709b954841e40",
+  "name" : "Given I am on \"Landing\" page",
+  "time" : {
+    "start" : 1620321108172,
+    "stop" : 1620321108315,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba7945c1e6caab2c",
+  "name" : "And The Company Logo is visible",
+  "time" : {
+    "start" : 1620321108147,
+    "stop" : 1620321108163,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

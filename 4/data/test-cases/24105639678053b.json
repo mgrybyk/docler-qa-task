@@ -1,0 +1,58 @@
+{
+  "uid" : "24105639678053b",
+  "name" : "Given I am on \"Landing\" page",
+  "fullName" : "Home Page: Home page.Given I am on \"Landing\" page",
+  "historyId" : "37bc814de51dedf6e6f19d78d1bf3783",
+  "time" : {
+    "start" : 1620321106938,
+    "stop" : 1620321107877,
+    "duration" : 939
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Home Page: Home page"
+  }, {
+    "name" : "testClass",
+    "value" : "Home Page: Home page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on \"Landing\" page"
+  }, {
+    "name" : "package",
+    "value" : "Home Page: Home page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24105639678053b.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

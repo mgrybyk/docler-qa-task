@@ -1,0 +1,58 @@
+{
+  "uid" : "a5d4f806d1a62c6a",
+  "name" : "Given I am on \"Landing\" page",
+  "fullName" : "Error Page: Error page.Given I am on \"Landing\" page",
+  "historyId" : "35eea6dacb803480d3a6b103e08a31b",
+  "time" : {
+    "start" : 1620321106935,
+    "stop" : 1620321107974,
+    "duration" : 1039
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testClass",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on \"Landing\" page"
+  }, {
+    "name" : "package",
+    "value" : "Error Page: Error page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5d4f806d1a62c6a.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

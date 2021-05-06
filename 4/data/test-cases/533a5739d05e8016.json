@@ -1,0 +1,82 @@
+{
+  "uid" : "533a5739d05e8016",
+  "name" : "Given I am on \"Form\" page",
+  "fullName" : "Submit Form: Form Page.Given I am on \"Form\" page",
+  "historyId" : "89f3d4b42faad83291ee2e4bab6e8a23",
+  "time" : {
+    "start" : 1620321109280,
+    "stop" : 1620321109313,
+    "duration" : 33
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on \"Form\" page"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ea32bff375c6eddd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108900,
+        "stop" : 1620321108930,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "fc9678dba6d69125",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321108475,
+        "stop" : 1620321108525,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "144c12fe5a66395e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620321106912,
+        "stop" : 1620321107984,
+        "duration" : 1072
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "533a5739d05e8016.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}
