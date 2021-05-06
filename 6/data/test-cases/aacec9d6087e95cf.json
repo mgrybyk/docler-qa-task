@@ -1,0 +1,87 @@
+{
+  "uid" : "aacec9d6087e95cf",
+  "name" : "Then The the url path is \"/hello.html?myName=Sophia\"",
+  "fullName" : "Submit Form: Form Page.Then The the url path is \"/hello.html?myName=Sophia\"",
+  "historyId" : "aeb764fdd31d8f327dcd094adcfd2c0e",
+  "time" : {
+    "start" : 1620321890115,
+    "stop" : 1620321890332,
+    "duration" : 217
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then The the url path is \"/hello.html?myName=Sophia\""
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "6e2552be2a964286",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/5//#testresult/6e2552be2a964286",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321727663,
+          "stop" : 1620321727967,
+          "duration" : 304
+        }
+      }, {
+        "uid" : "9570e5bd2d42fc0c",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/9570e5bd2d42fc0c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321108620,
+          "stop" : 1620321108850,
+          "duration" : 230
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "aacec9d6087e95cf.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

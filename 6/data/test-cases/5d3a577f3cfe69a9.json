@@ -1,0 +1,56 @@
+{
+  "uid" : "5d3a577f3cfe69a9",
+  "name" : "And The Company Logo is visible",
+  "fullName" : "Submit Form: Form Page.And The Company Logo is visible",
+  "historyId" : "8bb0700095922fdd6ee9baea9c00ae68",
+  "time" : {
+    "start" : 1620321890709,
+    "stop" : 1620321890715,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The Company Logo is visible"
+  }, {
+    "name" : "package",
+    "value" : "Submit Form: Form Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d3a577f3cfe69a9.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}

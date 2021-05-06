@@ -1,0 +1,87 @@
+{
+  "uid" : "31e4ad7e43102e9e",
+  "name" : "And The window title is \"UI Testing Site\"",
+  "fullName" : "Navigation: Navigate to Home Page.And The window title is \"UI Testing Site\"",
+  "historyId" : "1b825682be66759ed9d6ff9e68cf5950",
+  "time" : {
+    "start" : 1620321890109,
+    "stop" : 1620321890112,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And The window title is \"UI Testing Site\""
+  }, {
+    "name" : "package",
+    "value" : "Navigation: Navigate to Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "ec8fd4699fb2e5b5",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/5//#testresult/ec8fd4699fb2e5b5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321717333,
+          "stop" : 1620321717336,
+          "duration" : 3
+        }
+      }, {
+        "uid" : "d6d3d541c894270e",
+        "reportUrl" : "https://mgrybyk.github.io/docler-qa-task/4//#testresult/d6d3d541c894270e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620321108495,
+          "stop" : 1620321108498,
+          "duration" : 3
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "31e4ad7e43102e9e.json",
+  "parameterValues" : [ "Chrome Headless-90.0.4430.93" ]
+}
